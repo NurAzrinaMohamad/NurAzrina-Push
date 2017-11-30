@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "447138410647",
+    "firebase_url": "https://nurazrinapush.firebaseio.com",
+    "project_id": "nurazrinapush",
+    "storage_bucket": "nurazrinapush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447138410647:android:0b71b8762dad3c18",
+        "android_client_info": {
+          "package_name": "com.example.user.nurazrina_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447138410647-s12khk0qf6rhq6hslt2uf0fkb6l2jkht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJMyFQxSk9mqbuXuBjvgm_h1tlAGGOhaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
